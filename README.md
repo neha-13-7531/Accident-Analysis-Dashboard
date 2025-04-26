@@ -4,7 +4,7 @@ This dashboard presents a comprehensive analysis of traffic accidents, injuries,
 # Steps 
 - The dashboard includes the following visualizations:
 - Vehicle Involvement in Accidents (Pie Chart):
-   Shows the proportion of accidents across various districts like Eixample, Sant Martí, and others.
+- Shows the proportion of accidents across various districts like Eixample, Sant Martí, and others.
 
 ***Key Metrics (KPIs):***
 - Sum of Serious Injuries: 240
